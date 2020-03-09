@@ -1,3 +1,3 @@
 clc
 shFPM_getSubimage();
-shFPM_reconstrution();
+shFPM_reconstruction();
