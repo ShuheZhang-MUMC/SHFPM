@@ -17,7 +17,7 @@ this is a conventional EPRY code, which can be find in Guoan Zheng, Fourier Ptyc
 Contents in SHFPM folder
 ------------------------------------------------------------------------------------------------------------------------------------
 ***************** main functions *********************
-*) Demo.m                      : This demo does the simulation of the Shack-Hartmann Fourier ptychographic microscopy technique in the                                    case with spiral phase aberrations
+*) Demo.m                      : This demo does the simulation of the Shack-Hartmann Fourier ptychographic microscopy technique in the case with spiral phase aberrations
 *) ini_enviroment.m            : This function simulates the experimental environment;
 *) shFPM_getSubimage.m         : This function simulates captured low resolution images of FPM using microlens arrays;
 *) shFPM_reconstruction.m      : This function runs the proposed SHFPM algorithm;
