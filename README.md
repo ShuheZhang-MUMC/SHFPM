@@ -1,2 +1,2 @@
 # SHFPM
-Shack-Hartmann Fourier ptychography microscopy
+Shack-Hartmann Fourier ptychographic microscopy
